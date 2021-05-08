@@ -1,0 +1,2 @@
+# SqlSugarTestDemo
+C#的ORM框架SqlSugar测试Demo，测试的数据库因为数据挺多所以就不放上来了
